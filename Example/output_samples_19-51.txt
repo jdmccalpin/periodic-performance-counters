@@ -1,0 +1,989 @@
+Sample range is 	19	 to 	51
+Sample range is 	19	 to 	51
+Sample range is 	19	 to 	51
+Sample range is 	19	 to 	51
+======================================================
+Total Fixed Function Counts by LPROC from sample 	19	 to sample 	51
+socket thread lproc AvgGHz FracStalled IPC
+0 0 0 2.560 0.001 0.116
+0 0 2 2.559 0.683 0.082
+0 0 4 2.561 0.001 0.117
+0 0 6 2.560 0.001 0.118
+0 0 8 2.561 0.001 0.118
+0 0 10 2.561 0.001 0.118
+0 0 12 2.560 0.001 0.117
+0 0 14 2.560 0.001 0.117
+0 0 16 2.561 0.001 0.118
+0 0 18 2.561 0.001 0.118
+0 0 20 2.561 0.001 0.118
+0 0 22 2.560 0.001 0.116
+0 0 24 2.558 0.001 0.107
+0 0 26 2.558 0.001 0.108
+0 0 28 2.558 0.001 0.109
+0 0 30 2.558 0.001 0.109
+0 0 32 2.558 0.001 0.108
+0 0 34 2.557 0.001 0.108
+0 0 36 2.558 0.001 0.108
+0 0 38 2.559 0.001 0.110
+0 0 40 2.558 0.001 0.109
+0 0 42 2.557 0.001 0.108
+0 0 44 2.558 0.001 0.108
+0 0 46 2.558 0.001 0.108
+0 1 48 2.558 0.973 0.000
+0 1 50 2.560 0.222 0.157
+0 1 52 2.585 1.000 0.000
+0 1 54 2.537 0.997 0.000
+0 1 56 2.571 0.999 0.000
+0 1 58 2.568 0.999 0.000
+0 1 60 2.581 1.000 0.000
+0 1 62 2.579 1.000 0.000
+0 1 64 2.575 1.000 0.000
+0 1 66 2.584 1.000 0.000
+0 1 68 2.581 0.999 0.000
+0 1 70 2.568 0.998 0.000
+0 1 72 2.588 1.000 0.000
+0 1 74 2.599 1.000 0.000
+0 1 76 2.565 0.999 0.000
+0 1 78 2.565 0.999 0.000
+0 1 80 2.577 1.000 0.000
+0 1 82 2.575 1.000 0.000
+0 1 84 2.579 0.999 0.000
+0 1 86 2.574 0.999 0.000
+0 1 88 2.587 1.000 0.000
+0 1 90 2.577 0.999 0.000
+0 1 92 2.578 1.000 0.000
+0 1 94 2.576 0.999 0.000
+1 0 1 2.561 0.001 0.118
+1 0 3 2.561 0.001 0.120
+1 0 5 2.560 0.001 0.118
+1 0 7 2.560 0.001 0.117
+1 0 9 2.561 0.001 0.118
+1 0 11 2.561 0.001 0.118
+1 0 13 2.561 0.001 0.117
+1 0 15 2.560 0.001 0.117
+1 0 17 2.560 0.001 0.117
+1 0 19 2.560 0.001 0.118
+1 0 21 2.561 0.001 0.118
+1 0 23 2.561 0.001 0.119
+1 0 25 2.558 0.001 0.108
+1 0 27 2.558 0.001 0.109
+1 0 29 2.558 0.001 0.108
+1 0 31 2.558 0.001 0.108
+1 0 33 2.558 0.001 0.107
+1 0 35 2.558 0.001 0.108
+1 0 37 2.558 0.001 0.107
+1 0 39 2.558 0.001 0.109
+1 0 41 2.558 0.001 0.108
+1 0 43 2.558 0.001 0.107
+1 0 45 2.558 0.001 0.108
+1 0 47 2.558 0.001 0.107
+1 1 49 2.564 0.999 0.000
+1 1 51 2.564 0.998 0.000
+1 1 53 2.573 1.000 0.000
+1 1 55 2.570 0.999 0.000
+1 1 57 2.569 0.999 0.000
+1 1 59 2.582 1.000 0.000
+1 1 61 2.570 0.999 0.000
+1 1 63 2.573 0.999 0.000
+1 1 65 2.581 1.000 0.000
+1 1 67 2.585 1.000 0.000
+1 1 69 2.574 0.999 0.000
+1 1 71 2.587 1.000 0.000
+1 1 73 2.574 1.000 0.000
+1 1 75 2.589 1.000 0.000
+1 1 77 2.571 0.999 0.000
+1 1 79 2.556 0.999 0.000
+1 1 81 2.575 0.999 0.000
+1 1 83 2.581 1.000 0.000
+1 1 85 2.597 1.000 0.000
+1 1 87 2.575 0.999 0.000
+1 1 89 2.573 0.999 0.000
+1 1 91 2.576 1.000 0.000
+1 1 93 2.559 0.988 0.000
+1 1 95 2.577 0.999 0.000
+======================================================
+=========== Fixed-Function Core Counter Cumulative Deltas for samples 	19	 to 	51	=============
+Lproc 0 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9560010846
+Lproc 0 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82596863286
+Lproc 0 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67757046588
+Lproc 1 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9731823194
+Lproc 1 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82622794357
+Lproc 1 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756698156
+Lproc 2 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 2151874891
+Lproc 2 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 26201460668
+Lproc 2 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 21498573348
+Lproc 3 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9879906979
+Lproc 3 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82624999950
+Lproc 3 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67757475744
+Lproc 4 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9701610216
+Lproc 4 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82615055516
+Lproc 4 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756916724
+Lproc 5 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9752795019
+Lproc 5 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82610791130
+Lproc 5 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756357032
+Lproc 6 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9716908757
+Lproc 6 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82611856231
+Lproc 6 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756616928
+Lproc 7 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9703747622
+Lproc 7 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82608549815
+Lproc 7 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756223808
+Lproc 8 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9733359412
+Lproc 8 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82615669812
+Lproc 8 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756625076
+Lproc 9 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9728473562
+Lproc 9 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82622495206
+Lproc 9 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67757305644
+Lproc 10 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9738346207
+Lproc 10 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82629942932
+Lproc 10 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67757564448
+Lproc 11 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9768604496
+Lproc 11 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82615393891
+Lproc 11 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756917648
+Lproc 12 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9686101499
+Lproc 12 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82610617648
+Lproc 12 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67757027604
+Lproc 13 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9690746957
+Lproc 13 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82614289798
+Lproc 13 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67755936192
+Lproc 14 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9667887501
+Lproc 14 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82610382806
+Lproc 14 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756435740
+Lproc 15 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9688436087
+Lproc 15 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82614735291
+Lproc 15 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67757129076
+Lproc 16 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9744532164
+Lproc 16 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82632229825
+Lproc 16 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67757347140
+Lproc 17 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9687518784
+Lproc 17 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82610842499
+Lproc 17 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67757036760
+Lproc 18 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9709563869
+Lproc 18 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82618964001
+Lproc 18 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756289916
+Lproc 19 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9740102408
+Lproc 19 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82612828421
+Lproc 19 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67755450840
+Lproc 20 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9727910456
+Lproc 20 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82627433710
+Lproc 20 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756580220
+Lproc 21 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9739210092
+Lproc 21 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82619590864
+Lproc 21 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756716300
+Lproc 22 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9602244050
+Lproc 22 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82605131231
+Lproc 22 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67757295228
+Lproc 23 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9853681172
+Lproc 23 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82635249694
+Lproc 23 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756756536
+Lproc 24 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8823947423
+Lproc 24 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82519565321
+Lproc 24 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67757783604
+Lproc 25 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8910571074
+Lproc 25 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82523498353
+Lproc 25 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756493616
+Lproc 26 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8907274695
+Lproc 26 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82531546920
+Lproc 26 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756494120
+Lproc 27 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9025209463
+Lproc 27 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82551219789
+Lproc 27 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67757878020
+Lproc 28 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8970784175
+Lproc 28 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82524998596
+Lproc 28 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756702524
+Lproc 29 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8909779020
+Lproc 29 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82535908219
+Lproc 29 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756797024
+Lproc 30 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8967768849
+Lproc 30 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82550312951
+Lproc 30 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67757311356
+Lproc 31 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8885662729
+Lproc 31 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82525814084
+Lproc 31 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756060764
+Lproc 32 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8948772192
+Lproc 32 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82532311146
+Lproc 32 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756432212
+Lproc 33 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8852088929
+Lproc 33 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82519348268
+Lproc 33 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67757076576
+Lproc 34 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8940757048
+Lproc 34 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82517598897
+Lproc 34 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756903032
+Lproc 35 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8941098552
+Lproc 35 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82527895533
+Lproc 35 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756444896
+Lproc 36 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8885101655
+Lproc 36 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82529087341
+Lproc 36 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756643220
+Lproc 37 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8840473330
+Lproc 37 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82520653311
+Lproc 37 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756144680
+Lproc 38 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9098951947
+Lproc 38 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82553152714
+Lproc 38 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67757233656
+Lproc 39 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 9015629058
+Lproc 39 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82527138227
+Lproc 39 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756995936
+Lproc 40 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8992829015
+Lproc 40 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82532788160
+Lproc 40 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756961496
+Lproc 41 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8955351273
+Lproc 41 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82542510162
+Lproc 41 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67757365284
+Lproc 42 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8919637450
+Lproc 42 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82516880109
+Lproc 42 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756540824
+Lproc 43 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8860111010
+Lproc 43 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82517103637
+Lproc 43 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67755900072
+Lproc 44 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8915878255
+Lproc 44 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82529726956
+Lproc 44 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756496556
+Lproc 45 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8882149051
+Lproc 45 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82521490988
+Lproc 45 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756750404
+Lproc 46 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8902607886
+Lproc 46 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82532795868
+Lproc 46 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756173408
+Lproc 47 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 8848383088
+Lproc 47 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 82517919266
+Lproc 47 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67756168452
+Lproc 48 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 48 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 2261917659
+Lproc 48 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 1857047052
+Lproc 49 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 49 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 76964846
+Lproc 49 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 63035532
+Lproc 50 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 10069986162
+Lproc 50 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 64327131893
+Lproc 50 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 52767332016
+Lproc 51 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 51 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 182422799
+Lproc 51 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 149433564
+Lproc 52 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 52 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 31344132
+Lproc 52 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 25459392
+Lproc 53 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 53 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 39993571
+Lproc 53 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 32646516
+Lproc 54 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 54 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 236888153
+Lproc 54 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 196067172
+Lproc 55 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 55 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 42795161
+Lproc 55 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 34963656
+Lproc 56 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 56 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 42302870
+Lproc 56 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 34552728
+Lproc 57 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 57 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 56959968
+Lproc 57 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 46569684
+Lproc 58 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 58 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 49245702
+Lproc 58 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 40274472
+Lproc 59 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 59 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 38836180
+Lproc 59 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 31584000
+Lproc 60 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 60 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 30421542
+Lproc 60 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 24753372
+Lproc 61 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 61 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 48201911
+Lproc 61 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 39383484
+Lproc 62 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 62 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 30609188
+Lproc 62 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 24923220
+Lproc 63 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 63 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 48770105
+Lproc 63 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 39811212
+Lproc 64 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 64 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 36349541
+Lproc 64 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 29640660
+Lproc 65 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 65 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 37791700
+Lproc 65 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 30742824
+Lproc 66 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 66 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 39528462
+Lproc 66 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 32128404
+Lproc 67 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 67 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 27921717
+Lproc 67 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 22681932
+Lproc 68 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 68 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 47672604
+Lproc 68 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 38790528
+Lproc 69 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 69 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 47248004
+Lproc 69 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 38544828
+Lproc 70 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 70 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 142655105
+Lproc 70 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 116676252
+Lproc 71 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 71 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 29152943
+Lproc 71 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 23661792
+Lproc 72 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 72 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 21010315
+Lproc 72 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 17046372
+Lproc 73 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 73 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 41246230
+Lproc 73 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 33649896
+Lproc 74 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 74 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 19429024
+Lproc 74 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 15695736
+Lproc 75 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 75 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 29701295
+Lproc 75 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 24089856
+Lproc 76 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 76 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 71557249
+Lproc 76 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 58594704
+Lproc 77 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 77 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 63129024
+Lproc 77 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 51573564
+Lproc 78 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 78 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 48057798
+Lproc 78 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 39341064
+Lproc 79 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 79 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 81659019
+Lproc 79 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 67077948
+Lproc 80 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 80 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 39668792
+Lproc 80 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 32328912
+Lproc 81 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 81 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 54804607
+Lproc 81 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 44703120
+Lproc 82 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 82 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 41078472
+Lproc 82 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 33503988
+Lproc 83 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 83 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 35532398
+Lproc 83 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 28908684
+Lproc 84 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 84 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 46154008
+Lproc 84 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 37577988
+Lproc 85 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 85 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 19481105
+Lproc 85 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 15751428
+Lproc 86 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 86 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 44544198
+Lproc 86 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 36346212
+Lproc 87 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 87 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 42372005
+Lproc 87 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 34553736
+Lproc 88 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 88 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 28313279
+Lproc 88 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 22983996
+Lproc 89 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 89 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 46263741
+Lproc 89 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 37763040
+Lproc 90 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 90 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 44134576
+Lproc 90 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 35967876
+Lproc 91 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 91 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 41076878
+Lproc 91 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 33492816
+Lproc 92 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 92 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 39861359
+Lproc 92 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 32471292
+Lproc 93 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 93 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 959886950
+Lproc 93 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 787803072
+Lproc 94 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 94 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 44935503
+Lproc 94 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 36630048
+Lproc 95 Elapsed_TSC 6508197170688 Event Inst_Retired.Any TotalDelta 0
+Lproc 95 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core TotalDelta 113218388
+Lproc 95 Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref TotalDelta 92278032
+=========== Fixed-Function Core Counter Per Socket Cumulative Deltas =============
+=========== Fixed-Function Core Counter Cumulative Deltas for samples 	19	 to 	51	=============
+Elapsed_TSC 6508197170688 Event Inst_Retired.Any AllCoreDelta 449976199569
+Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Core AllCoreDelta 3977059675367
+Elapsed_TSC 6508197170688 Event CPU_CLK_Unhalted.Ref AllCoreDelta 3263456912100
+Event from core_events[0] is 	CPU_CLK_UNHALTED.KERNEL
+=========== Programmable Core Counter Cumulative Deltas =============
+LogicalProcessor 0 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1828776716
+LogicalProcessor 0 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 438528
+LogicalProcessor 0 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82572587929
+LogicalProcessor 0 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 249840233
+LogicalProcessor 1 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1881570276
+LogicalProcessor 1 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 478117
+LogicalProcessor 1 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82621958009
+LogicalProcessor 1 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 256848316
+LogicalProcessor 2 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 415754812
+LogicalProcessor 2 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 107802
+LogicalProcessor 2 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 18291919936
+LogicalProcessor 2 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 64861753
+LogicalProcessor 3 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1925633854
+LogicalProcessor 3 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 515655
+LogicalProcessor 3 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82624983418
+LogicalProcessor 3 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 258197437
+LogicalProcessor 4 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1872655134
+LogicalProcessor 4 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 462200
+LogicalProcessor 4 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82615108579
+LogicalProcessor 4 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 254581897
+LogicalProcessor 5 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1887846265
+LogicalProcessor 5 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 481814
+LogicalProcessor 5 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82610781712
+LogicalProcessor 5 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 256621436
+LogicalProcessor 6 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1877173225
+LogicalProcessor 6 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 475267
+LogicalProcessor 6 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82611908336
+LogicalProcessor 6 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 255757053
+LogicalProcessor 7 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1873262400
+LogicalProcessor 7 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 448760
+LogicalProcessor 7 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82608666304
+LogicalProcessor 7 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 264036985
+LogicalProcessor 8 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1881966078
+LogicalProcessor 8 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 478830
+LogicalProcessor 8 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82615796143
+LogicalProcessor 8 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 259143322
+LogicalProcessor 9 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1880590326
+LogicalProcessor 9 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 457223
+LogicalProcessor 9 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82622690155
+LogicalProcessor 9 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 255963081
+LogicalProcessor 10 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1883519515
+LogicalProcessor 10 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 464152
+LogicalProcessor 10 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82630162799
+LogicalProcessor 10 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 260625402
+LogicalProcessor 11 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1892539819
+LogicalProcessor 11 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 462794
+LogicalProcessor 11 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82615696038
+LogicalProcessor 11 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 253400244
+LogicalProcessor 12 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1867904792
+LogicalProcessor 12 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 453897
+LogicalProcessor 12 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82610877314
+LogicalProcessor 12 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 259040669
+LogicalProcessor 13 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1869145025
+LogicalProcessor 13 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 461354
+LogicalProcessor 13 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82614604566
+LogicalProcessor 13 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 259128614
+LogicalProcessor 14 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1862535559
+LogicalProcessor 14 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 446099
+LogicalProcessor 14 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82610722812
+LogicalProcessor 14 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 257014901
+LogicalProcessor 15 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1868689709
+LogicalProcessor 15 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 463326
+LogicalProcessor 15 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82615154325
+LogicalProcessor 15 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 255818036
+LogicalProcessor 16 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1886017178
+LogicalProcessor 16 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 445972
+LogicalProcessor 16 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82632447913
+LogicalProcessor 16 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 256551631
+LogicalProcessor 17 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1868436461
+LogicalProcessor 17 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 475105
+LogicalProcessor 17 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82611279611
+LogicalProcessor 17 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 257645309
+LogicalProcessor 18 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1874975711
+LogicalProcessor 18 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 456416
+LogicalProcessor 18 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82619333754
+LogicalProcessor 18 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 259496882
+LogicalProcessor 19 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1884068100
+LogicalProcessor 19 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 449547
+LogicalProcessor 19 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82613236997
+LogicalProcessor 19 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 261637033
+LogicalProcessor 20 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1880901480
+LogicalProcessor 20 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 469721
+LogicalProcessor 20 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82627876030
+LogicalProcessor 20 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 259346795
+LogicalProcessor 21 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1883799923
+LogicalProcessor 21 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 473634
+LogicalProcessor 21 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82620041188
+LogicalProcessor 21 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 253839585
+LogicalProcessor 22 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1843080567
+LogicalProcessor 22 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 450069
+LogicalProcessor 22 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82605279614
+LogicalProcessor 22 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 257785610
+LogicalProcessor 23 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1917606257
+LogicalProcessor 23 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 468900
+LogicalProcessor 23 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82635748997
+LogicalProcessor 23 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 262060209
+LogicalProcessor 24 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1611159194
+LogicalProcessor 24 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 331627
+LogicalProcessor 24 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82519762936
+LogicalProcessor 24 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 259130553
+LogicalProcessor 25 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1637369583
+LogicalProcessor 25 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 350170
+LogicalProcessor 25 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82523878899
+LogicalProcessor 25 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 256433920
+LogicalProcessor 26 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1636360304
+LogicalProcessor 26 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 332465
+LogicalProcessor 26 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82531593877
+LogicalProcessor 26 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 264423358
+LogicalProcessor 27 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1671482005
+LogicalProcessor 27 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 347211
+LogicalProcessor 27 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82551607563
+LogicalProcessor 27 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 260132470
+LogicalProcessor 28 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1655537818
+LogicalProcessor 28 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 353668
+LogicalProcessor 28 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82525299729
+LogicalProcessor 28 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 261598468
+LogicalProcessor 29 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1637135054
+LogicalProcessor 29 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 350711
+LogicalProcessor 29 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82536069432
+LogicalProcessor 29 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 257707124
+LogicalProcessor 30 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1654267467
+LogicalProcessor 30 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 361414
+LogicalProcessor 30 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82550595526
+LogicalProcessor 30 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 259873712
+LogicalProcessor 31 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1629951811
+LogicalProcessor 31 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 324904
+LogicalProcessor 31 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82526031629
+LogicalProcessor 31 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 260468291
+LogicalProcessor 32 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1648753586
+LogicalProcessor 32 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 340416
+LogicalProcessor 32 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82532598387
+LogicalProcessor 32 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 262063582
+LogicalProcessor 33 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1619824231
+LogicalProcessor 33 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 350225
+LogicalProcessor 33 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82519660964
+LogicalProcessor 33 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 256015275
+LogicalProcessor 34 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1644069630
+LogicalProcessor 34 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 297182
+LogicalProcessor 34 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82517895471
+LogicalProcessor 34 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 264320796
+LogicalProcessor 35 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1646474194
+LogicalProcessor 35 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 326018
+LogicalProcessor 35 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82528238308
+LogicalProcessor 35 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 256117138
+LogicalProcessor 36 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1629810310
+LogicalProcessor 36 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 341831
+LogicalProcessor 36 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82529430144
+LogicalProcessor 36 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 262181971
+LogicalProcessor 37 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1616430709
+LogicalProcessor 37 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 311978
+LogicalProcessor 37 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82520983845
+LogicalProcessor 37 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 264363753
+LogicalProcessor 38 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1693367387
+LogicalProcessor 38 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 362716
+LogicalProcessor 38 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82553481452
+LogicalProcessor 38 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 265864638
+LogicalProcessor 39 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1668642311
+LogicalProcessor 39 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 344345
+LogicalProcessor 39 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82527473361
+LogicalProcessor 39 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 261681113
+LogicalProcessor 40 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1662122352
+LogicalProcessor 40 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 370432
+LogicalProcessor 40 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82533060963
+LogicalProcessor 40 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 264999250
+LogicalProcessor 41 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1650707876
+LogicalProcessor 41 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 341142
+LogicalProcessor 41 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82542903304
+LogicalProcessor 41 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 256366342
+LogicalProcessor 42 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1640025219
+LogicalProcessor 42 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 318863
+LogicalProcessor 42 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82517175221
+LogicalProcessor 42 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 261705404
+LogicalProcessor 43 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1622282039
+LogicalProcessor 43 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 317817
+LogicalProcessor 43 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82517510204
+LogicalProcessor 43 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 259953949
+LogicalProcessor 44 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1639062710
+LogicalProcessor 44 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 364489
+LogicalProcessor 44 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82530128431
+LogicalProcessor 44 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 259573817
+LogicalProcessor 45 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1628915620
+LogicalProcessor 45 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 361523
+LogicalProcessor 45 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82521794508
+LogicalProcessor 45 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 257451035
+LogicalProcessor 46 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1634907532
+LogicalProcessor 46 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 323586
+LogicalProcessor 46 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82533142062
+LogicalProcessor 46 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 254724910
+LogicalProcessor 47 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1618325469
+LogicalProcessor 47 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 330041
+LogicalProcessor 47 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 82518256839
+LogicalProcessor 47 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 258653021
+LogicalProcessor 48 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 48 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 48 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 48 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 2229874
+LogicalProcessor 49 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 49 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 49 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 49 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 58313
+LogicalProcessor 50 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 1939856421
+LogicalProcessor 50 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 487089
+LogicalProcessor 50 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 86077501119
+LogicalProcessor 50 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 183573280
+LogicalProcessor 51 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 51 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 51 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 51 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 146680
+LogicalProcessor 52 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 52 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 52 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 52 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 13161
+LogicalProcessor 53 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 53 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 53 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 53 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 21568
+LogicalProcessor 54 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 54 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 54 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 54 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 127004
+LogicalProcessor 55 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 55 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 55 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 55 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 27720
+LogicalProcessor 56 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 56 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 56 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 56 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 26740
+LogicalProcessor 57 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 57 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 57 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 57 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 36524
+LogicalProcessor 58 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 58 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 58 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 58 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 26375
+LogicalProcessor 59 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 59 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 59 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 59 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 19270
+LogicalProcessor 60 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 60 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 60 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 60 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 12109
+LogicalProcessor 61 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 61 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 61 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 61 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 27892
+LogicalProcessor 62 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 62 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 62 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 62 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 12694
+LogicalProcessor 63 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 63 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 63 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 63 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 33438
+LogicalProcessor 64 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 64 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 64 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 64 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 16623
+LogicalProcessor 65 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 65 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 65 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 65 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 19254
+LogicalProcessor 66 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 66 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 66 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 66 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 23562
+LogicalProcessor 67 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 67 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 67 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 67 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 12131
+LogicalProcessor 68 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 68 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 68 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 68 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 25966
+LogicalProcessor 69 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 69 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 69 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 69 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 29873
+LogicalProcessor 70 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 70 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 70 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 70 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 112764
+LogicalProcessor 71 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 71 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 71 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 71 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 11019
+LogicalProcessor 72 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 72 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 72 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 72 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 5602
+LogicalProcessor 73 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 73 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 73 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 73 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 34415
+LogicalProcessor 74 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 74 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 74 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 74 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 4758
+LogicalProcessor 75 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 75 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 75 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 75 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 13613
+LogicalProcessor 76 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 76 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 76 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 76 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 50471
+LogicalProcessor 77 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 77 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 77 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 77 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 42321
+LogicalProcessor 78 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 78 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 78 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 78 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 36794
+LogicalProcessor 79 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 79 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 79 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 79 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 55007
+LogicalProcessor 80 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 80 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 80 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 80 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 22735
+LogicalProcessor 81 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 81 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 81 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 81 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 36068
+LogicalProcessor 82 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 82 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 82 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 82 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 22963
+LogicalProcessor 83 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 83 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 83 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 83 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 18085
+LogicalProcessor 84 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 84 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 84 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 84 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 29554
+LogicalProcessor 85 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 85 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 85 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 85 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 5562
+LogicalProcessor 86 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 86 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 86 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 86 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 28853
+LogicalProcessor 87 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 87 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 87 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 87 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 27658
+LogicalProcessor 88 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 88 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 88 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 88 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 10412
+LogicalProcessor 89 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 89 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 89 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 89 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 26073
+LogicalProcessor 90 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 90 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 90 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 90 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 36227
+LogicalProcessor 91 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 91 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 91 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 91 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 33236
+LogicalProcessor 92 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 92 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 92 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 92 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 28211
+LogicalProcessor 93 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 93 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 93 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 93 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 375323
+LogicalProcessor 94 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 94 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 94 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 94 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 34375
+LogicalProcessor 95 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.KERNEL TotalDelta 0
+LogicalProcessor 95 Elapsed_TSC 6508197170688 Event CPU_CLK_UNHALTED.REF_XCLK TotalDelta 0
+LogicalProcessor 95 Elapsed_TSC 6508197170688 Event INST_RETIRED.KERNEL TotalDelta 0
+LogicalProcessor 95 Elapsed_TSC 6508197170688 Event OFFCORE_REQUESTS.L3_MISS_DEMAND_DATA_READ TotalDelta 15091
+Cumulative CHA counts from sample 	19	 to sample 	51
+Socket 0 cha 0 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 12714
+Socket 0 cha 0 Event SF_EVICTION.M_STATE TotalDelta 169897
+Socket 0 cha 0 Event SF_EVICTION.E_STATE TotalDelta 80638752
+Socket 0 cha 0 Event SF_EVICTION.S_STATE TotalDelta 19583
+Socket 0 cha 1 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 16246
+Socket 0 cha 1 Event SF_EVICTION.M_STATE TotalDelta 71020
+Socket 0 cha 1 Event SF_EVICTION.E_STATE TotalDelta 79101361
+Socket 0 cha 1 Event SF_EVICTION.S_STATE TotalDelta 6144
+Socket 0 cha 2 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 13866
+Socket 0 cha 2 Event SF_EVICTION.M_STATE TotalDelta 73490
+Socket 0 cha 2 Event SF_EVICTION.E_STATE TotalDelta 79125072
+Socket 0 cha 2 Event SF_EVICTION.S_STATE TotalDelta 5112
+Socket 0 cha 3 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 16191
+Socket 0 cha 3 Event SF_EVICTION.M_STATE TotalDelta 162246
+Socket 0 cha 3 Event SF_EVICTION.E_STATE TotalDelta 80681771
+Socket 0 cha 3 Event SF_EVICTION.S_STATE TotalDelta 19551
+Socket 0 cha 4 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 10455
+Socket 0 cha 4 Event SF_EVICTION.M_STATE TotalDelta 60821
+Socket 0 cha 4 Event SF_EVICTION.E_STATE TotalDelta 80959143
+Socket 0 cha 4 Event SF_EVICTION.S_STATE TotalDelta 6149
+Socket 0 cha 5 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 12604
+Socket 0 cha 5 Event SF_EVICTION.M_STATE TotalDelta 112011
+Socket 0 cha 5 Event SF_EVICTION.E_STATE TotalDelta 79713641
+Socket 0 cha 5 Event SF_EVICTION.S_STATE TotalDelta 10727
+Socket 0 cha 6 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 11960
+Socket 0 cha 6 Event SF_EVICTION.M_STATE TotalDelta 121053
+Socket 0 cha 6 Event SF_EVICTION.E_STATE TotalDelta 79816989
+Socket 0 cha 6 Event SF_EVICTION.S_STATE TotalDelta 6184
+Socket 0 cha 7 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 9269
+Socket 0 cha 7 Event SF_EVICTION.M_STATE TotalDelta 72510
+Socket 0 cha 7 Event SF_EVICTION.E_STATE TotalDelta 77031705
+Socket 0 cha 7 Event SF_EVICTION.S_STATE TotalDelta 6297
+Socket 0 cha 8 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 13105
+Socket 0 cha 8 Event SF_EVICTION.M_STATE TotalDelta 144724
+Socket 0 cha 8 Event SF_EVICTION.E_STATE TotalDelta 81160402
+Socket 0 cha 8 Event SF_EVICTION.S_STATE TotalDelta 16926
+Socket 0 cha 9 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 17729
+Socket 0 cha 9 Event SF_EVICTION.M_STATE TotalDelta 76696
+Socket 0 cha 9 Event SF_EVICTION.E_STATE TotalDelta 80997568
+Socket 0 cha 9 Event SF_EVICTION.S_STATE TotalDelta 8132
+Socket 0 cha 10 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 15147
+Socket 0 cha 10 Event SF_EVICTION.M_STATE TotalDelta 88232
+Socket 0 cha 10 Event SF_EVICTION.E_STATE TotalDelta 79945158
+Socket 0 cha 10 Event SF_EVICTION.S_STATE TotalDelta 5391
+Socket 0 cha 11 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 13342
+Socket 0 cha 11 Event SF_EVICTION.M_STATE TotalDelta 156538
+Socket 0 cha 11 Event SF_EVICTION.E_STATE TotalDelta 79886635
+Socket 0 cha 11 Event SF_EVICTION.S_STATE TotalDelta 17752
+Socket 0 cha 12 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 9826
+Socket 0 cha 12 Event SF_EVICTION.M_STATE TotalDelta 87070
+Socket 0 cha 12 Event SF_EVICTION.E_STATE TotalDelta 80453057
+Socket 0 cha 12 Event SF_EVICTION.S_STATE TotalDelta 2524
+Socket 0 cha 13 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 13404
+Socket 0 cha 13 Event SF_EVICTION.M_STATE TotalDelta 123871
+Socket 0 cha 13 Event SF_EVICTION.E_STATE TotalDelta 81630410
+Socket 0 cha 13 Event SF_EVICTION.S_STATE TotalDelta 16318
+Socket 0 cha 14 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 12764
+Socket 0 cha 14 Event SF_EVICTION.M_STATE TotalDelta 100720
+Socket 0 cha 14 Event SF_EVICTION.E_STATE TotalDelta 77488811
+Socket 0 cha 14 Event SF_EVICTION.S_STATE TotalDelta 12227
+Socket 0 cha 15 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 10091
+Socket 0 cha 15 Event SF_EVICTION.M_STATE TotalDelta 77423
+Socket 0 cha 15 Event SF_EVICTION.E_STATE TotalDelta 79687396
+Socket 0 cha 15 Event SF_EVICTION.S_STATE TotalDelta 3046
+Socket 0 cha 16 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 70562
+Socket 0 cha 16 Event SF_EVICTION.M_STATE TotalDelta 187102
+Socket 0 cha 16 Event SF_EVICTION.E_STATE TotalDelta 121781123
+Socket 0 cha 16 Event SF_EVICTION.S_STATE TotalDelta 10493
+Socket 0 cha 17 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 49727
+Socket 0 cha 17 Event SF_EVICTION.M_STATE TotalDelta 186299
+Socket 0 cha 17 Event SF_EVICTION.E_STATE TotalDelta 116497820
+Socket 0 cha 17 Event SF_EVICTION.S_STATE TotalDelta 9359
+Socket 0 cha 18 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 60319
+Socket 0 cha 18 Event SF_EVICTION.M_STATE TotalDelta 131780
+Socket 0 cha 18 Event SF_EVICTION.E_STATE TotalDelta 116197688
+Socket 0 cha 18 Event SF_EVICTION.S_STATE TotalDelta 9590
+Socket 0 cha 19 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 31598
+Socket 0 cha 19 Event SF_EVICTION.M_STATE TotalDelta 206820
+Socket 0 cha 19 Event SF_EVICTION.E_STATE TotalDelta 111739495
+Socket 0 cha 19 Event SF_EVICTION.S_STATE TotalDelta 42961
+Socket 0 cha 20 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 49760
+Socket 0 cha 20 Event SF_EVICTION.M_STATE TotalDelta 124776
+Socket 0 cha 20 Event SF_EVICTION.E_STATE TotalDelta 119136997
+Socket 0 cha 20 Event SF_EVICTION.S_STATE TotalDelta 12587
+Socket 0 cha 21 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 29366
+Socket 0 cha 21 Event SF_EVICTION.M_STATE TotalDelta 428325
+Socket 0 cha 21 Event SF_EVICTION.E_STATE TotalDelta 116691739
+Socket 0 cha 21 Event SF_EVICTION.S_STATE TotalDelta 13396
+Socket 0 cha 22 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 70861
+Socket 0 cha 22 Event SF_EVICTION.M_STATE TotalDelta 451043
+Socket 0 cha 22 Event SF_EVICTION.E_STATE TotalDelta 116771564
+Socket 0 cha 22 Event SF_EVICTION.S_STATE TotalDelta 56623
+Socket 0 cha 23 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 25132
+Socket 0 cha 23 Event SF_EVICTION.M_STATE TotalDelta 157132
+Socket 0 cha 23 Event SF_EVICTION.E_STATE TotalDelta 109909852
+Socket 0 cha 23 Event SF_EVICTION.S_STATE TotalDelta 21003
+Socket 1 cha 0 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 9423
+Socket 1 cha 0 Event SF_EVICTION.M_STATE TotalDelta 183667
+Socket 1 cha 0 Event SF_EVICTION.E_STATE TotalDelta 77827871
+Socket 1 cha 0 Event SF_EVICTION.S_STATE TotalDelta 17036
+Socket 1 cha 1 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 6554
+Socket 1 cha 1 Event SF_EVICTION.M_STATE TotalDelta 65517
+Socket 1 cha 1 Event SF_EVICTION.E_STATE TotalDelta 76502008
+Socket 1 cha 1 Event SF_EVICTION.S_STATE TotalDelta 8551
+Socket 1 cha 2 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 8929
+Socket 1 cha 2 Event SF_EVICTION.M_STATE TotalDelta 66329
+Socket 1 cha 2 Event SF_EVICTION.E_STATE TotalDelta 76572323
+Socket 1 cha 2 Event SF_EVICTION.S_STATE TotalDelta 4219
+Socket 1 cha 3 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 8846
+Socket 1 cha 3 Event SF_EVICTION.M_STATE TotalDelta 184902
+Socket 1 cha 3 Event SF_EVICTION.E_STATE TotalDelta 78060286
+Socket 1 cha 3 Event SF_EVICTION.S_STATE TotalDelta 15570
+Socket 1 cha 4 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 6950
+Socket 1 cha 4 Event SF_EVICTION.M_STATE TotalDelta 86333
+Socket 1 cha 4 Event SF_EVICTION.E_STATE TotalDelta 78482002
+Socket 1 cha 4 Event SF_EVICTION.S_STATE TotalDelta 7106
+Socket 1 cha 5 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 8702
+Socket 1 cha 5 Event SF_EVICTION.M_STATE TotalDelta 112998
+Socket 1 cha 5 Event SF_EVICTION.E_STATE TotalDelta 77303590
+Socket 1 cha 5 Event SF_EVICTION.S_STATE TotalDelta 14087
+Socket 1 cha 6 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 9480
+Socket 1 cha 6 Event SF_EVICTION.M_STATE TotalDelta 114503
+Socket 1 cha 6 Event SF_EVICTION.E_STATE TotalDelta 77140734
+Socket 1 cha 6 Event SF_EVICTION.S_STATE TotalDelta 17174
+Socket 1 cha 7 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 8838
+Socket 1 cha 7 Event SF_EVICTION.M_STATE TotalDelta 68049
+Socket 1 cha 7 Event SF_EVICTION.E_STATE TotalDelta 74536923
+Socket 1 cha 7 Event SF_EVICTION.S_STATE TotalDelta 3750
+Socket 1 cha 8 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 8137
+Socket 1 cha 8 Event SF_EVICTION.M_STATE TotalDelta 165052
+Socket 1 cha 8 Event SF_EVICTION.E_STATE TotalDelta 78712775
+Socket 1 cha 8 Event SF_EVICTION.S_STATE TotalDelta 13037
+Socket 1 cha 9 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 12864
+Socket 1 cha 9 Event SF_EVICTION.M_STATE TotalDelta 70283
+Socket 1 cha 9 Event SF_EVICTION.E_STATE TotalDelta 78541458
+Socket 1 cha 9 Event SF_EVICTION.S_STATE TotalDelta 8093
+Socket 1 cha 10 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 15483
+Socket 1 cha 10 Event SF_EVICTION.M_STATE TotalDelta 78675
+Socket 1 cha 10 Event SF_EVICTION.E_STATE TotalDelta 77251537
+Socket 1 cha 10 Event SF_EVICTION.S_STATE TotalDelta 7642
+Socket 1 cha 11 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 8741
+Socket 1 cha 11 Event SF_EVICTION.M_STATE TotalDelta 168882
+Socket 1 cha 11 Event SF_EVICTION.E_STATE TotalDelta 77348044
+Socket 1 cha 11 Event SF_EVICTION.S_STATE TotalDelta 24265
+Socket 1 cha 12 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 7657
+Socket 1 cha 12 Event SF_EVICTION.M_STATE TotalDelta 85922
+Socket 1 cha 12 Event SF_EVICTION.E_STATE TotalDelta 77967435
+Socket 1 cha 12 Event SF_EVICTION.S_STATE TotalDelta 5220
+Socket 1 cha 13 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 12345
+Socket 1 cha 13 Event SF_EVICTION.M_STATE TotalDelta 97571
+Socket 1 cha 13 Event SF_EVICTION.E_STATE TotalDelta 79156239
+Socket 1 cha 13 Event SF_EVICTION.S_STATE TotalDelta 12908
+Socket 1 cha 14 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 7153
+Socket 1 cha 14 Event SF_EVICTION.M_STATE TotalDelta 106005
+Socket 1 cha 14 Event SF_EVICTION.E_STATE TotalDelta 75123509
+Socket 1 cha 14 Event SF_EVICTION.S_STATE TotalDelta 17471
+Socket 1 cha 15 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 7089
+Socket 1 cha 15 Event SF_EVICTION.M_STATE TotalDelta 71914
+Socket 1 cha 15 Event SF_EVICTION.E_STATE TotalDelta 77307039
+Socket 1 cha 15 Event SF_EVICTION.S_STATE TotalDelta 5576
+Socket 1 cha 16 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 27998
+Socket 1 cha 16 Event SF_EVICTION.M_STATE TotalDelta 196129
+Socket 1 cha 16 Event SF_EVICTION.E_STATE TotalDelta 149155562
+Socket 1 cha 16 Event SF_EVICTION.S_STATE TotalDelta 29618
+Socket 1 cha 17 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 32648
+Socket 1 cha 17 Event SF_EVICTION.M_STATE TotalDelta 135542
+Socket 1 cha 17 Event SF_EVICTION.E_STATE TotalDelta 143351526
+Socket 1 cha 17 Event SF_EVICTION.S_STATE TotalDelta 8768
+Socket 1 cha 18 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 21757
+Socket 1 cha 18 Event SF_EVICTION.M_STATE TotalDelta 129951
+Socket 1 cha 18 Event SF_EVICTION.E_STATE TotalDelta 143021521
+Socket 1 cha 18 Event SF_EVICTION.S_STATE TotalDelta 6407
+Socket 1 cha 19 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 22915
+Socket 1 cha 19 Event SF_EVICTION.M_STATE TotalDelta 206019
+Socket 1 cha 19 Event SF_EVICTION.E_STATE TotalDelta 138128161
+Socket 1 cha 19 Event SF_EVICTION.S_STATE TotalDelta 21903
+Socket 1 cha 20 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 28746
+Socket 1 cha 20 Event SF_EVICTION.M_STATE TotalDelta 132706
+Socket 1 cha 20 Event SF_EVICTION.E_STATE TotalDelta 146178438
+Socket 1 cha 20 Event SF_EVICTION.S_STATE TotalDelta 18418
+Socket 1 cha 21 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 18163
+Socket 1 cha 21 Event SF_EVICTION.M_STATE TotalDelta 463608
+Socket 1 cha 21 Event SF_EVICTION.E_STATE TotalDelta 143694720
+Socket 1 cha 21 Event SF_EVICTION.S_STATE TotalDelta 73169
+Socket 1 cha 22 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 25353
+Socket 1 cha 22 Event SF_EVICTION.M_STATE TotalDelta 366435
+Socket 1 cha 22 Event SF_EVICTION.E_STATE TotalDelta 143392988
+Socket 1 cha 22 Event SF_EVICTION.S_STATE TotalDelta 45982
+Socket 1 cha 23 Event XSNP_RESP.EVICT_RSP_HITFSE TotalDelta 14083
+Socket 1 cha 23 Event SF_EVICTION.M_STATE TotalDelta 165362
+Socket 1 cha 23 Event SF_EVICTION.E_STATE TotalDelta 135991542
+Socket 1 cha 23 Event SF_EVICTION.S_STATE TotalDelta 18880
+======================================================
+Cumulative DRAM Stats from sample 	19	 to sample 	51
+      Global                 Socket 0                Socket 1
+ Hits  Misses Conflicts   Hits Misses Conflicts   Hits Misses Conflicts
+ 0.317  0.413  0.271      0.314  0.420  0.265     0.319  0.405  0.276    
+======================================================
+Socket 0 IMC reads       29213714995
+Socket 1 IMC reads       29384291794
+Global IMC Reads 58598006789
+Socket 0 IMC writes       19186495133
+Socket 1 IMC writes       19299821969
+Global IMC writes 38486317102
