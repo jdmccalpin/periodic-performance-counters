@@ -755,13 +755,15 @@ int main(int argc, char *argv[])
 		fprintf(stderr,"ERROR %s when trying to open log file %s\n",strerror(errno),filename);
 		exit(-1);
 	}
-	uid_t my_uid=29596;
-	gid_t my_gid=25511;
+	uid_t my_uid;
+	gid_t my_gid;
+	my_uid = getuid();
+	my_gid = getgid();
 	rc = chown(filename,my_uid,my_gid);
 	if (rc == 0) {
-		fprintf(log_file,"DEBUG: Successfully changed ownership of log file to mccalpin.G-25511\n");
+		fprintf(log_file,"DEBUG: Successfully changed ownership of log file to uid %d gid %d\n",my_uid,my_gid);
 	} else {
-		fprintf(stderr,"ERROR: Attempt to change ownership of log file failed -- bailing out\n");
+		fprintf(stderr,"ERROR: Attempt to change ownership of log file to uid %d gid %d failed -- bailing out\n",my_uid,my_gid);
 		exit(-1);
 	}
 
@@ -1322,14 +1324,6 @@ int main(int argc, char *argv[])
 
 
 
-
-
-
-
-
-
-
-
 	// Get the host name (again), assume that it is of the TACC standard form, and use this as part
 	//    of the results output file name so every node can write into the same directory.
 	// Standard form is "c591-101.stampede2.tacc.utexas.edu", so truncating at the
@@ -1343,8 +1337,8 @@ int main(int argc, char *argv[])
 	fprintf(log_file,"HOSTNAME: %s\n",description);
 	description[8] = 0;		// assume hostname of the form c581-101.stampede2.tacc.utexas.edu -- truncate after first period
 
-	// NOTE that root (or setuid root) will not be able to write to files on $WORK.
-	//
+	// NOTE that root (or setuid root) will not be able to write to filesystems with "root-squashing" enabled.
+
 	sprintf(filename,"%s.perfcounts.lua",description);
 	results_file = fopen(filename,"w+");
 	if (results_file == 0) {
@@ -1353,9 +1347,10 @@ int main(int argc, char *argv[])
 	}
 	rc = chown(filename,my_uid,my_gid);
 	if (rc == 0) {
-		fprintf(log_file,"DEBUG: Successfully changed ownership of output file to mccalpin.G-25511\n");
+		fprintf(log_file,"DEBUG: Successfully changed ownership of output file to uid %d gid %d\n",my_uid,my_gid);
 	} else {
-		fprintf(log_file,"ERROR: Attempt to change ownership of output file failed -- continuing\n");
+		fprintf(stderr,"ERROR: Attempt to change ownership of output file to uid %d gid %d failed -- bailing out\n",my_uid,my_gid);
+		exit(-1);
 	}
 	// put the TSC ratio at the top of the output file -- this won't need to be repeated
 	// for each sample
