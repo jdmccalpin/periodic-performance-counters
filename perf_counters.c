@@ -705,7 +705,35 @@ static void catch_function(int signal) {
 	exit(0);
 }
 
+static char* acpi_mcfg_paths[] = {
+    "/sys/firmware/acpi/tables/MCFG",
+    "/sys/firmware/acpi/tables/MCFG1",
+    NULL,
+};
 
+int PCI_get_base(unsigned long* base) {
+    int ret = -1;
+    unsigned long tmp = 0x0;
+    int pid = 0;
+    do {
+        if (!access(acpi_mcfg_paths[pid], R_OK))
+        {
+            int fp = open(acpi_mcfg_paths[pid], O_RDONLY);
+            if (fp >= 0) {
+                ret = pread(fp, &tmp, sizeof(unsigned long), 44);
+                close(fp);
+                if (ret == sizeof(unsigned long)) {
+                    ret = 0;
+                    break;
+                }
+            }
+        }
+        pid++;
+    } while (acpi_mcfg_paths[pid]);
+    if (ret == 0)
+        *base = tmp;
+    return ret;
+}
 
 
 // ===========================================================================================================================================================================
@@ -729,7 +757,8 @@ int main(int argc, char *argv[])
 	int save_errno;
 	int core, lproc;
 	int mem_fd;
-    unsigned long mmconfig_base=0x80000000;		// DOUBLE-CHECK THIS ON NEW SYSTEMS!!!!!   grep MMCONFIG /proc/iomem | awk -F- '{print $1}'
+    // Read mmconfig base address later from ACPI tables
+    unsigned long mmconfig_base=0x0;
     unsigned long mmconfig_size=0x10000000;
 	long long result;
 
@@ -957,6 +986,10 @@ int main(int argc, char *argv[])
 	// 		check VID/DID for uncore bus:device:function combinations
 	//   Note that using /dev/mem for PCI configuration space access is required for some devices on KNL.
 	//   It is not required on other systems, but it is not particularly inconvenient either.
+	if (PCI_get_base(&mmconfig_base) != 0) {
+		fprintf(log_file,"ERROR %s when trying to get mmconfig base address from ACPI tables\n",strerror(errno));
+		exit(-1);
+	}
 	sprintf(filename,"/dev/mem");
 	fprintf(log_file,"opening %s\n",filename);
 	mem_fd = open(filename, O_RDWR);
